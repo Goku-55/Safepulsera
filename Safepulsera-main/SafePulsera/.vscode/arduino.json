@@ -1,0 +1,7 @@
+{
+  "board": "esp32:esp32:esp32",
+  "configuration": "PSRAM=disabled,PartitionScheme=default,CPUFreq=80,FlashMode=qio,FlashFreq=80,FlashSize=keep,UploadSpeed=921600,DebugLevel=none",
+  "port": "COM3",
+  "sketch": "arduino_esp32_oled_wifi.ino",
+  "output": "./build"
+}

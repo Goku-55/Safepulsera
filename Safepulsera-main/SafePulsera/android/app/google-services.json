@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959539651630",
+    "project_id": "safeallergy-19bb7",
+    "storage_bucket": "safeallergy-19bb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959539651630:android:14123c335ec3fff1502bbf",
+        "android_client_info": {
+          "package_name": "com.juan.safeallergy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZW-DhftYyoacCevCDBZc_76e9bPqEKQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

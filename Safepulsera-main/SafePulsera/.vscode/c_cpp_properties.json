@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "name": "ESP32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/juan2/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.4/cores/esp32/**",
+        "C:/Users/juan2/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.4/libraries/**",
+        "C:/Users/juan2/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.4/variants/**",
+        "C:/Users/juan2/AppData/Local/Arduino15/packages/esp32/tools/esp32-arduino-libs/**",
+        "C:/Users/juan2/AppData/Local/Arduino15/libraries/**",
+        "C:/Users/juan2/OneDrive/Documentos/Arduino/libraries/**"
+      ],
+      "defines": [
+        "ESP32",
+        "ARDUINO_ESP32_DEV",
+        "ARDUINO=10819",
+        "HAVE_CONFIG_H",
+        "__ets__",
+        "ICACHE_FLASH"
+      ],
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64",
+      "browse": {
+        "path": [
+          "${workspaceFolder}",
+          "C:/Users/juan2/AppData/Local/Arduino15/packages/esp32/hardware/esp32/3.3.4/**",
+          "C:/Users/juan2/AppData/Local/Arduino15/libraries/**"
+        ]
+      }
+    }
+  ],
+  "version": 4
+}
